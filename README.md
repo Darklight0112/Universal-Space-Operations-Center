@@ -13,7 +13,7 @@ The documentation of for this project can be found [here](https://github.com/aer
 ## How To Contribute
 -   Create an **Issue** if none exists for the work you want to do and state what you want to do. If you want to work on an issue thats already open. Comment on that issue so that we know that you are working on it.
 -   **Fork** the project
--   Add your code
+-   Add your "CODE"
 -   Create a **pull request**
 
 ## Authors
